@@ -1,3 +1,11 @@
+/*
+*
+*Title      : User Management System CRUD Application
+*Description: Create, Read, Update, and Delete (CRUD)
+*Author     : Md. Nuruzzamn (cpik)
+*Date       :25/05/23
+*
+*/
 const mongoose = require('mongoose');
 
 var schema = new mongoose.Schema({
