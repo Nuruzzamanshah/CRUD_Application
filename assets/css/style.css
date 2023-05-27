@@ -66,9 +66,12 @@ a {
 }
 
 #header nav{
-    background-color: #06d6a0;
+    background-color: #014e3d;
     padding: 1em 0;
     width: 100%;
+}
+.dark{
+    color: white;
 }
 
 #site-main{
